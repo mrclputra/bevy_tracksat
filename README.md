@@ -1,6 +1,6 @@
 # bevy_tracksat
 
-A 3D satellite tracking simulation built using the [Bevy](https://bevy.org/) game engine and [SGP4](https://github.com/neuromorphicsystems/sgp4) crate for orbital mechanics.
+A 3D satellite tracking tool built using the [Bevy](https://bevy.org/) game engine and [SGP4](https://github.com/neuromorphicsystems/sgp4) crate for orbital mechanics.
 
 ![](assets/1.jpg)
 ![](assets/2.jpg)
